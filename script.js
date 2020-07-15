@@ -169,3 +169,10 @@ const hamBurger=document.querySelector(".ham-burger");
 hamBurger.addEventListener("click", function(){
 	document.querySelector(".navbar").classList.toggle("show");
 })
+
+// Preloader
+var overlay = document.getElementById("preloader");
+
+window.addEventListener('load', function(){
+  overlay.style.display = 'none';
+})
