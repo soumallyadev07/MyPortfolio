@@ -171,8 +171,8 @@ hamBurger.addEventListener("click", function(){
 })
 
 // Preloader
-var overlay = document.getElementById("preloader");
+// var overlay = document.getElementById("preloader");
 
-window.addEventListener('load', function(){
-  overlay.style.display = 'none';
-})
+// window.addEventListener('load', function(){
+//   overlay.style.display = 'none';
+// })
