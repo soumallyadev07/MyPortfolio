@@ -171,8 +171,14 @@ hamBurger.addEventListener("click", function(){
 })
 
 // Preloader
-// var overlay = document.getElementById("preloader");
+// var overlay = document.getElementById("loader");
 
 // window.addEventListener('load', function(){
 //   overlay.style.display = 'none';
 // })
+var loaDer = document.querySelector("#preloader");
+window.addEventListener("load", vanish);
+
+function vanish() {
+  loaDer.classList.add("disppear");
+}
