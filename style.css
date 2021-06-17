@@ -308,6 +308,9 @@ header .navbar ul li a.active::before{
 	background-size: cover;
 	background-position: center;
 	padding: 15px;
+	-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
 }
 
 .home .full-screen{
