@@ -1504,4 +1504,7 @@ footer .social a:hover{
 	.testimonials .testimonials-content .testi-slider .slide{
 		flex-wrap: wrap;
 	}
+	#emailIDP{
+		font-size: 12px;
+	}
 }
