@@ -307,6 +307,7 @@ header .navbar ul li a.active::before{
 	background-image: url("images/Home/Cover4.png");
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
 	padding: 15px;
 	-webkit-background-size: cover;
         -moz-background-size: cover;
