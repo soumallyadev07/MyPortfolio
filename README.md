@@ -1,5 +1,5 @@
 <p align="center" >
-<img style="width:200px;height:200px;" src="https://avatars2.githubusercontent.com/u/55331884?s=460&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4" alt="Soumallya Dev"/>
+<img style="width:250px;height:250px;" src="https://avatars2.githubusercontent.com/u/55331884?s=460&u=b5d129bb2393f5487c06d5e2b0ac1e7c48e43c25&v=4" alt="Soumallya Dev"/>
 </p>
 
 <p align="center"> 
