@@ -7,7 +7,7 @@
     This is my portfolio website made using HTML, CSS and JavaScript only.
     I've tried to make the website as responsive as possible.
     My resume: <a href="https://github.com/soumallyadev07/MyPortfolio/blob/master/Docs/resume.pdf">Resume</a>.
-    For more information: <a href="soumallyadev.live">soumallyadev.live</a>
+    For more information: <a href="https://soumallyadev07.github.io/MyPortfolio/">https://soumallyadev07.github.io/MyPortfolio/</a>
 </p>
 <br/>
 
